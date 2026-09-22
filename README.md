@@ -1,4 +1,4 @@
-### Hi, I'm Mouad Saber 👋
+### Hi, I'm Mouad Saber
 
 I'm a **full stack developer** who builds and ships web applications end to end —
 responsive front ends, the APIs and databases behind them, and the infrastructure
