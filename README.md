@@ -2,7 +2,7 @@
 
 # Mouad Saber
 
-**Full Stack Developer** — I build, ship, and maintain web applications end to end.
+**Full Stack Developer**, I build, ship, and maintain web applications end to end.
 
 </div>
 
@@ -60,7 +60,7 @@ Responsive front ends, the APIs and databases behind them, and the infrastructur
 
 ### Currently
 
-Open to full-time roles — and always glad to talk about interesting problems.
+Open to full-time roles - and always glad to talk about interesting problems.
 
 </div>
 
