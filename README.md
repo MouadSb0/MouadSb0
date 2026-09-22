@@ -53,7 +53,7 @@ Responsive front ends, the APIs and databases behind them, and the infrastructur
 <div align="center">
   Currently
 
-Open to full-time roles — and always glad to talk about interesting problems.
+Open to full-time roles, and always glad to talk about interesting problems.
 
 </div>
 ---
@@ -61,4 +61,7 @@ Open to full-time roles — and always glad to talk about interesting problems.
 <div align="center">
 <sub>Thanks for stopping by.</sub>
 </div>
+
+<div align="center">
 📫 **Reach me:** [email](mouadsbaer@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mouad-sbaer-1499a0374/) · [Portfolio](https://mouadsbaer.github.io/portfolio/)
+</div>
