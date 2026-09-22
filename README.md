@@ -50,10 +50,12 @@ Responsive front ends, the APIs and databases behind them, and the infrastructur
 
 </div>
 
-### Currently
+<div align="center">
+  Currently
 
 Open to full-time roles — and always glad to talk about interesting problems.
 
+</div>
 ---
 
 <div align="center">
