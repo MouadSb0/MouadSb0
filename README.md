@@ -13,4 +13,4 @@ interesting problems.
 
 ---
 
-📫 **Reach me:** [email](mouadsbaer@gmail.com) · [LinkedIn]([https://linkedin.com/in/you](https://www.linkedin.com/in/mouad-sbaer-1499a0374/)) · [Portfolio](https://yoursite.com)
+📫 **Reach me:** [email](mouadsbaer@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mouad-sbaer-1499a0374/) · [Portfolio](https://mouadsbaer.github.io/portfolio/)
