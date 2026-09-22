@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Mouad Saber 👋
 
-<!--
-**mouadsbaer/Mouadsbaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full stack developer** who builds and ships web applications end to end —
+responsive front ends, the APIs and databases behind them, and the infrastructure
+that keeps them running.
 
-Here are some ideas to get you started:
+I work across **React / Next.js . Angular · MERN . Node.js · Python · PostgreSQL . PHP. MYSQL. Laravel. Java**, with a focus on
+**Docker · CI/CD · AWS**, and I care as much about how code is deployed and
+maintained as how it's written.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently **open to full-time roles**, and always glad to talk about
+interesting problems.
+
+---
+
+📫 **Reach me:** [email](mouadsbaer@gmail.com) · [LinkedIn]([https://linkedin.com/in/you](https://www.linkedin.com/in/mouad-sbaer-1499a0374/)) · [Portfolio](https://yoursite.com)
