@@ -8,9 +8,11 @@
 
 ---
 
-### What I do
+<div align="center">
+  ### What I do
 
 Responsive front ends, the APIs and databases behind them, and the infrastructure that keeps them running. I care as much about how code is deployed and maintained as how it's written.
+</div>
 
 <div align="center">
 
