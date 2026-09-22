@@ -2,17 +2,21 @@
 
 # Mouad Saber
 
-**Full Stack Developer**, I build, ship, and maintain web applications end to end.
+**Full Stack Developer** — I build, ship, and maintain web applications end to end.
 
 </div>
 
 ---
 
 <div align="center">
-  What I do
+
+### What I do
 
 Responsive front ends, the APIs and databases behind them, and the infrastructure that keeps them running. I care as much about how code is deployed and maintained as how it's written.
+
 </div>
+
+<br>
 
 <div align="center">
 
@@ -50,18 +54,24 @@ Responsive front ends, the APIs and databases behind them, and the infrastructur
 
 </div>
 
-<div align="center">
-  Currently
+<br>
 
-Open to full-time roles, and always glad to talk about interesting problems.
+<div align="center">
+
+### Currently
+
+Open to full-time roles — and always glad to talk about interesting problems.
 
 </div>
+
 ---
 
 <div align="center">
-<sub>Thanks for stopping by.</sub>
-</div>
 
-<div align="center">
-📫 **Reach me:** [email](mouadsbaer@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mouad-sbaer-1499a0374/) · [Portfolio](https://mouadsbaer.github.io/portfolio/)
+📫 **Reach me:** [email](mailto:mouadsbaer@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mouad-sbaer-1499a0374/) · [Portfolio](https://mouadsbaer.github.io/portfolio/)
+
+<br>
+
+<sub>Thanks for stopping by.</sub>
+
 </div>
