@@ -1,11 +1,5 @@
 <div align="center">
   <a href="https://github.com/MouadSb0">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0A1A38,100:1E90FF&height=120&section=header&text=Mouad%20Saber&fontSize=40&fontColor=ffffff" width="100%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MouadSb0">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MouadSb0/MouadSb0/main/dark_mode.svg">
       <img alt="Mouad Saber's GitHub Profile README" src="https://raw.githubusercontent.com/MouadSb0/MouadSb0/main/light_mode.svg">
