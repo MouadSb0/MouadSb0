@@ -1,3 +1,5 @@
+![Ocean Banner](./ocean-banner.svg)
+
 <div align="center">
   <a href="https://github.com/MouadSb0">
     <picture>
