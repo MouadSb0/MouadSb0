@@ -76,11 +76,14 @@ Responsive front ends, the APIs and databases behind them, and the infrastructur
 
 ### Currently
 
-Open to full-time roles — and always glad to talk about interesting problems.
+Open to full-time roles, and always glad to talk about interesting problems.
 
 </div>
 
+
 ![Ocean Banner](./ocean-banner.svg)
+
+
 <div align="center">
 
 📫 **Reach me:** [email](mailto:mouadsbaer@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mouad-sbaer-1499a0374/) · [Portfolio](https://mouadsb0.github.io/portfolio/)
